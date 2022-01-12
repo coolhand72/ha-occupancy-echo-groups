@@ -1,5 +1,5 @@
 # ha-occupancy-echo-groups
-Set an Echo Group based on a Room's Occupancy
+Set an Echo Group based on a Room's Occupancy - Home Assistant Blueprint
 
 <h3>Platform:</h3>
 Home Assistant
